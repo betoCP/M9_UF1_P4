@@ -1,0 +1,3 @@
+﻿  programa.cpp
+C:\Users\albertocabpis\source\repos\programa\programa\programa.cpp(35,49): warning C4267: '+=': conversión de 'size_t' a 'SHORT'; posible pérdida de datos
+  programa.vcxproj -> C:\Users\albertocabpis\source\repos\programa\x64\Debug\programa.exe
